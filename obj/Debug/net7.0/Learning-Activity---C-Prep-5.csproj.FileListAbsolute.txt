@@ -1,0 +1,15 @@
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\bin\Debug\net7.0\Learning-Activity---C-Prep-5.exe
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\bin\Debug\net7.0\Learning-Activity---C-Prep-5.deps.json
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\bin\Debug\net7.0\Learning-Activity---C-Prep-5.runtimeconfig.json
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\bin\Debug\net7.0\Learning-Activity---C-Prep-5.dll
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\bin\Debug\net7.0\Learning-Activity---C-Prep-5.pdb
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\obj\Debug\net7.0\Learning-Activity---C-Prep-5.csproj.AssemblyReference.cache
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\obj\Debug\net7.0\Learning-Activity---C-Prep-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\obj\Debug\net7.0\Learning-Activity---C-Prep-5.AssemblyInfoInputs.cache
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\obj\Debug\net7.0\Learning-Activity---C-Prep-5.AssemblyInfo.cs
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\obj\Debug\net7.0\Learning-Activity---C-Prep-5.csproj.CoreCompileInputs.cache
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\obj\Debug\net7.0\Learning-Activity---C-Prep-5.dll
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\obj\Debug\net7.0\refint\Learning-Activity---C-Prep-5.dll
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\obj\Debug\net7.0\Learning-Activity---C-Prep-5.pdb
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\obj\Debug\net7.0\Learning-Activity---C-Prep-5.genruntimeconfig.cache
+C:\Users\Nefi_\Documents\GitHub\Learning-Activity---C-Prep-5\obj\Debug\net7.0\ref\Learning-Activity---C-Prep-5.dll
